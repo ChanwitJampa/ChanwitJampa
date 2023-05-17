@@ -3,7 +3,7 @@
   
 - 🔭 I’m currently working on Flutter Developer
 
-- 🌱 I’m currently learning more and more flutter  :satisfied::satisfied::satisfied:
+- 🌱 I’m currently learning more and more Flutter  :satisfied::satisfied::satisfied:
 
 - 📫 How to reach me *chanwit.jam@gmail.com**
 
