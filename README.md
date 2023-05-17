@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning more and more Flutter  :satisfied::satisfied::satisfied:
 
-- 📫 How to reach me *chanwit.jam@gmail.com**
+- 📫 How to reach me *chanwit.jam@gmail.com*
 
 
 <p align="center">
