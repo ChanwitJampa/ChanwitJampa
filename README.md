@@ -14,8 +14,9 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChanwitJampa&" alt="ChanwitJampa" />
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,git,java,Cjavascript,angular,nodejs,mysql,python,figma" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,git,java,javascript,angular,nodejs,mysql,python,figma" />
   </a>
 </p>
