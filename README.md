@@ -1,8 +1,11 @@
-<h3 align="left">Hi~~</h3>
+<h1 align="center">Hi 👋, I'm Chanwit Jampa</h1>
 <p align="left">
   
-🌱 Currently I'm learning Flutte
-😄 Pronouns: He/Him
+- 🔭 I’m currently working on Flutter Developer
+
+- 🌱 I’m currently learning more and more flutter 
+
+- 📫 How to reach me *chanwit.jam@gmail.com**
 
 
 <p align="center">
